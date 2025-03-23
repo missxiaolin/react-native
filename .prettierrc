@@ -1,9 +1,9 @@
 {
     "arrowParens": "avoid",
+    "eslintIntegration": true,
     "endOfLine": "lf",
     "printWidth": 140,
-    "semi": false,
+    "semi": true,
     "singleQuote": true,
-    "tabWidth": 4,
-    "trailingComma": "none"
+    "tabWidth": 4
 }

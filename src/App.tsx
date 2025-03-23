@@ -6,14 +6,14 @@
  */
 
 import React from 'react';
-import {Text, View} from 'react-native';
+import { Text, View } from 'react-native';
 
 function App(): React.JSX.Element {
-  return (
-    <View>
-      <Text>hell word</Text>
-    </View>
-  );
+    return (
+        <View>
+            <Text>hell word</Text>
+        </View>
+    );
 }
 
 export default App;
