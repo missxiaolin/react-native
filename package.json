@@ -48,6 +48,7 @@
         "react-native-storage": "^1.0.1",
         "react-native-svg": "^15.6.0",
         "react-native-ui-lib": "^7.34.0",
+        "react-native-webview": "^13.13.4",
         "react-navigation": "^5.0.0",
         "react-redux": "^9.1.1"
     },
